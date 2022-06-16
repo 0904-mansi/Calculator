@@ -1,3 +1,5 @@
+[![Jekyll site CI](https://github.com/0904-mansi/Calculator/actions/workflows/jekyll.yml/badge.svg)](https://github.com/0904-mansi/Calculator/actions/workflows/jekyll.yml)
+
 # Calculator
 This is my  first  MLH Hackathon project A simple calculator 
 
